@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+bs4
+seaborn
+tqdm
+wordcloud
+JPype1-1.1.2-cp38-cp38-win_amd64.whl
+konlpy

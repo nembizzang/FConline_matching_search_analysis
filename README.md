@@ -29,8 +29,8 @@ FCONLINE_MATCHING_SEARCH_INVEN
 - 데이터 생성 시기 : 22.12.07 ~ 23.10.17
 - 링크 : https://www.inven.co.kr/search/fifaonline4
 - 관련 게시물 예시 이미지
-![]('C:/Users/mypc/Documents/study/project/FConline_matching_search_inven/1.png')
-![]('C:/Users/mypc/Documents/study/project/FConline_matching_search_inven/2.png')
+![](https://velog.velcdn.com/images/nembizzang/post/075b7fd9-fb68-4fd5-a7d0-fc45982f4fec/image.png)
+![](https://velog.velcdn.com/images/nembizzang/post/971f7fad-293a-480f-823d-819332ce5a7b/image.png)
   
 ## 분석 방법
 - 데이터 수집 : Beautiful soup 활용 request-response로 텍스트 데이터 추출

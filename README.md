@@ -38,7 +38,7 @@ FCONLINE_MATCHING_SEARCH_INVEN
   
 ## 분석 결과
 ![](https://velog.velcdn.com/images/nembizzang/post/9eff3c99-1846-4567-b430-590a38119248/image.png)
-
+![](https://velog.velcdn.com/images/nembizzang/post/432ffbdc-cccd-4ff0-bad1-3a323be8f3d4/image.png)
 
 ## 시사점
 대부분 인벤에 글을 쓰는 사람들은 불만을 가지고 쓰기 때문에 이 키워드들은 대부분 매칭에 대해 개선이 필요한 점이라고 생각한다.
